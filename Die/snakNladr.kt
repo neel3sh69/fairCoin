@@ -1,5 +1,3 @@
-package dies
-
 import java.util.*
 
 class snakNladr {
