@@ -22,6 +22,7 @@ Else, go to Step 1
 Step 5: End
 
 
+### Math:
 
   Let’s assume that the probability of foo returning 0 is x and for 1 y
   y = 1-x
